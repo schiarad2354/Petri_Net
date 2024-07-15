@@ -8,5 +8,8 @@ This package allows you to construct large-scale, multi-patch Petri Nets for mod
 
 # How to install:
 - Clone the repository
-- 
+  https://github.com/schiarad2354/Petri_Net.git
+- Install the requirements
+- Run the MPAT application
+  MPAT
 
