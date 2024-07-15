@@ -13,3 +13,5 @@ This package allows you to construct large-scale, multi-patch Petri Nets for mod
 - Run the MPAT application
   MPAT
 
+# License:
+Attribution-NonCommercial-NoDerivatives 4.0 International
