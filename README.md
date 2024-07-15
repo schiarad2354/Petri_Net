@@ -1,6 +1,14 @@
 # MPAT: Modular Petri Net Assembly Toolkit
 
-This package allows you to construct large-scale, multi-patch Petri Nets for modular assembly. Leveraging an existing, popular and scalable Petri Net simulator, SPIKE, this package allows for newcomers of Petri Nets and experienced researchers a seamless way to design, simulate, and analyze complex models.
+We present a Python package called Modular Petri Net Assembly Toolkit
+(MPAT) that empowers users to easily create large-scale, modular Petri
+Nets for various spatial configurations, including extensive spatial grids or
+those derived from shape files, augmented with heterogeneous information
+layers. Petri Nets are powerful discrete event system modeling tools in computational
+biology and engineering. However, their utility for automated
+construction of large-scale spatial models has been limited by gaps in existing
+modeling software packages. MPAT addresses this gap by supporting the
+development of modular Petri Net models with flexible spatial geometries.
 
 # Requirements
 - Pyton 3.8
