@@ -11,7 +11,7 @@ modeling software packages. MPAT addresses this gap by supporting the
 development of modular Petri Net models with flexible spatial geometries.
 
 # Requirements
-- Pyton 3.8
+- Python 3.8
 - Spike https://www-dssz.informatik.tu-cottbus.de/DSSZ/Software/Spike
 
 # How to install:
