@@ -19,7 +19,6 @@ development of modular Petri Net models with flexible spatial geometries.
   https://github.com/schiarad2354/Petri_Net.git
 - Install the requirements
 - Run the MPAT application
-  MPAT
 
 # License:
 Attribution-NonCommercial-NoDerivatives 4.0 International
