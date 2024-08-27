@@ -11,8 +11,26 @@ modeling software packages. MPAT addresses this gap by supporting the
 development of modular Petri Net models with flexible spatial geometries.
 
 # Requirements
-- Python 3.8
-- Spike https://www-dssz.informatik.tu-cottbus.de/DSSZ/Software/Spike
+Python Dependencies:
+- Python = 3.8+
+- Geopandas = 0.12.2+
+- Pandas = 2.0.3+
+- NumPy = 1.24.3+
+- Shapely = 2.0.1+
+- lxml = 4.9.3+
+- networkx = 3.1+
+
+import geopandas as gpd
+import pandas as pd
+import numpy as np
+import shapely.geometry
+import xml.etree.ElementTree as ET
+import networkx as nx
+from itertools import product
+import os
+import subprocess
+from contextlib import suppress
+from multiprocessing import Pool
 
 # How to install:
 - Clone the repository
