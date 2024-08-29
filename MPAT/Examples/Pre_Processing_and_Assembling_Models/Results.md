@@ -1,6 +1,6 @@
 # Pre Processing and Assembling of Models
 
-Here, we show scalability of the pre-processing steps that MPAT performs. In particular, the elapsed time it takes to create a grid from a shapefile and generate the corresponding SBML file of epidemiological models following Section 3.2 and generalization of Figure 5 in the manuscript. We do this for various selected countries and U.S. states.
+Here, we show scalability of the pre-processing steps that MPAT performs. In particular, the elapsed time it takes to create a grid from a shapefile and generate the corresponding SBML file of epidemiological models following Section 3.2 and generalization of Figure 5 in the manuscript. We do this for various selected countries and U.S. states. For computing resources, the simulations were conducted on an Intel Xeon Gold 6226R CPU @ 2.90Ghz with 64 threads and 512 GB of memory om a Linux server. 
 
 ## Selected Countries
 Without loss of generalization, we randomly selected the following countries:
