@@ -26,5 +26,7 @@ Without loss of generalization, we randomly selected the following U.S. states:
 - Michigan (MI)
 - New York (NY)
 
+The following figure shows the elapsed time (in seconds) for the time it takes to generate the grid of the U.S. state's shapefile and create the corresponding SBML file. Similar findings from above can be seen here. 
+
 ![Execution_Time_US_States](https://github.com/user-attachments/assets/acc5f5d2-6329-4a60-b8ae-d95334c61bdf)
 
