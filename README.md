@@ -38,5 +38,9 @@ from multiprocessing import Pool
 - Install the requirements
 - Run the MPAT application
 
+
+  # Note:
+  If shapefiles such as "World_Countries.shp" are missing they can be downloaded at: https://hub.arcgis.com/datasets/ac80670eb213440ea5899bbf92a04998/explore. Download Shapefile.zip and extract all. Ensure that they are in the correct file path for running. For U.S. if shapefile "cb_2023_us_county_500k.shp" is missing, download zipfile at https://catalog.data.gov/dataset/2023-cartographic-boundary-file-kml-county-and-equivalent-for-united-states-1-500000/resource/2ccd7a0b-0752-4395-87ed-ee3762c37204. 
+
 # License:
 Attribution-NonCommercial-NoDerivatives 4.0 International
