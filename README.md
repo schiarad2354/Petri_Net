@@ -33,7 +33,7 @@ Python Dependencies:
 - import subprocess
 - from contextlib import suppress
 - from multiprocessing import Pool
-- -Spike: https://www-dssz.informatik.tu-cottbus.de/DSSZ/Software/Spike
+- Spike: https://www-dssz.informatik.tu-cottbus.de/DSSZ/Software/Spike
 
 # How to install:
 - Clone the repository
